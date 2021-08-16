@@ -7,12 +7,6 @@
 * [Contributing](#contributing)
 * [Support](#support)
 
-## Introduction
-
-Cfngoat was built to enable DevSecOps design and implement a sustainable misconfiguration prevention strategy. It can be used to test a policy-as-code framework like  [Bridgecrew](https://bridgecrew.io/?utm_source=github&utm_medium=organic_oss&utm_campaign=cfngoat) & [Checkov](https://github.com/bridgecrewio/checkov/), inline-linters, pre-commit hooks or other code scanning methods.
-
-Cfngoat follows the tradition of existing *Goat projects that provide a baseline training ground to practice implementing secure development best practices for cloud infrastructure.
-
 
 ## Installation
  
@@ -30,21 +24,12 @@ aws cloudformation create-stack --stack-name cfngoat2 --template-body file://cfn
 
 ## Important notes
 
-* **Where to get help:** the [Bridgecrew Community Slack](https://slack.bridgecrew.io/?utm_source=github&utm_medium=organic_oss&utm_campaign=cfngoat)
 
-Before you proceed please take a not of these warning:
-> :warning: Cfngoat creates intentionally vulnerable AWS resources into your account. **DO NOT deploy Cfngoat in a production environment or alongside any sensitive AWS resources.**
 
 ## Requirements
 
 * aws cli
 
-
-## Bridgecrew's IaC herd of goats
-
-* [CfnGoat](https://github.com/bridgecrewio/cfngoat) - Vulnerable by design Cloudformation template
-* [TerraGoat](https://github.com/bridgecrewio/terragoat) - Vulnerable by design Terraform stack
-* [CDKGoat](https://github.com/bridgecrewio/cdkgoat) - Vulnerable by design CDK application
 
 ## Contributing
 
@@ -54,9 +39,6 @@ We would love to hear about more ideas on how to find vulnerable infrastructure-
 
 ## Support
 
-[Bridgecrew](https://bridgecrew.io/?utm_source=github&utm_medium=organic_oss&utm_campaign=cfngoat) builds and maintains Cfngoat to encourage the adoption of policy-as-code.
-
-If you need direct support you can contact us at [info@bridgecrew.io](mailto:info@bridgecrew.io).
 
 ## Existing vulnerabilities (Auto-Generated)
 
