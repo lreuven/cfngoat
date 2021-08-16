@@ -1,19 +1,4 @@
 # Cfngoat - Vulnerable Cloudformation Template
-[![Maintained by Bridgecrew.io](https://img.shields.io/badge/maintained%20by-bridgecrew.io-blueviolet)](https://bridgecrew.io/?utm_source=github&utm_medium=organic_oss&utm_campaign=cfngoat)
-[![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/bridgecrewio/cfngoat/general)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=bridgecrewio%2Fcfngoat&benchmark=INFRASTRUCTURE+SECURITY)
-[![CIS AWS](https://www.bridgecrew.cloud/badges/github/bridgecrewio/cfngoat/cis_aws)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=bridgecrewio%2Fcfngoat&benchmark=CIS+AWS+V1.2)
-[![PCI-DSS](https://www.bridgecrew.cloud/badges/github/bridgecrewio/cfngoat/pci)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=bridgecrewio%2Fcfngoat&benchmark=PCI-DSS+V3.2)
-[![SOC2](https://www.bridgecrew.cloud/badges/github/bridgecrewio/cfngoat/soc2)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=bridgecrewio%2Fcfngoat&benchmark=SOC2)
-[![ISO](https://www.bridgecrew.cloud/badges/github/bridgecrewio/cfngoat/iso)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=bridgecrewio%2Fcfngoat&benchmark=ISO27001)
-[![NIST-800-53](https://www.bridgecrew.cloud/badges/github/bridgecrewio/cfngoat/nist)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=bridgecrewio%2Fcfngoat&benchmark=NIST-800-53)
-[![Join us on Slack!](https://slack.bridgecrew.io/badge.svg)](https://slack.bridgecrew.io/?utm_source=github&utm_medium=organic_oss&utm_campaign=cfngoat)
-
-
-Cfngoat is one  of Bridgecrew's "Vulnerable by Design" Infrastructure as Code repositories, a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.
-
-![Cfngoat](.github/cfngoat-removebg-preview.png)
-
-It's an ideal companion to testing build time Infrastructure as Code scanning tools, such as [Bridgecrew](https://bridgecrew.io/) & [Checkov](https://checkov.io) 
 
 ## Table of Contents
 
